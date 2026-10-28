@@ -1,4 +1,4 @@
-# MatchLab — Startup Hiring Intelligence
+# MatchLab: Startup Hiring Intelligence
 
 An independent interactive prototype exploring explainable candidate ranking for early-stage startup hiring.
 

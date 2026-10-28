@@ -17,5 +17,3 @@ The demo uses a deterministic weighted heuristic combining skills overlap, work 
 ## Limitations
 All data is synthetic. This is not intended for actual hiring decisions. A real system would need privacy controls, consent, fairness evaluation, accessibility review, and rigorous validation.
 
-## Attribution
-Independent portfolio experiment. Not affiliated with or endorsed by CoffeeSpace.
